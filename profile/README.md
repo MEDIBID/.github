@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-<h1 align="center">MEDIBID</h1>
+<h1 align="center">MEDIBID
 <p align="center">
- <img width="64" height="64" src="https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/64/external-medicines-health-and-medical-flatart-icons-lineal-color-flatarticons-3.png" alt="external-medicines-health-and-medical-flatart-icons-lineal-color-flatarticons-3"/>
+ <img width="64" height="64" src="https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/64/external-medicines-health-and-medical-flatart-icons-lineal-color-flatarticons-3.png" alt="external-medicines-health-and-medical-flatart-icons-lineal-color-flatarticons-3"/></h1>
 </p>
 <p align="center">
 <p align="centre">
